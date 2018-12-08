@@ -1,0 +1,216 @@
+//All objects from the game A.D 0 Thanks!
+[ad0_pine_snow_4_s] 
+	   { 
+	   world=All Worlds; 
+	   description=Pine Tree; 
+	   category=Vegetation; 
+	   object=ad0_pine_snow_4_s.s3o; 
+	   footprintx=1; 
+	   footprintz=1; 
+	   height=30;
+	   blocking=1;
+	   upright=1; 
+	   hitdensity=0; 
+	   energy=300;
+	   metal=0; 
+	   damage=200; 
+	   flammable=1; 
+	   reclaimable=1; 
+	   autoreclaimable=1; 
+	   featurereclamate=smudge01; 
+	   seqnamereclamate=tree1reclamate; 
+	  } 
+[ad0_pine_snow_5_s] 
+	   { 
+	   world=All Worlds; 
+	   description=Pine Tree; 
+	   category=Vegetation; 
+	   object=ad0_pine_snow_5_s.s3o; 
+	   footprintx=1; 
+	   footprintz=1; 
+	   height=30;
+	   blocking=1;
+	   upright=1; 
+	   hitdensity=0; 
+	   energy=300;
+	   metal=0; 
+	   damage=200; 
+	   flammable=1; 
+	   reclaimable=1; 
+	   autoreclaimable=1; 
+	   featurereclamate=smudge01; 
+	   seqnamereclamate=tree1reclamate; 
+	  } 
+
+[ad0_pine_snow_4_m] 
+	   { 
+	   world=All Worlds; 
+	   description=Pine Tree; 
+	   category=Vegetation; 
+	   object=ad0_pine_snow_4_m.s3o; 
+	   footprintx=1; 
+	   footprintz=1; 
+	   height=30;
+	   blocking=1;
+	   upright=1; 
+	   hitdensity=0; 
+	   energy=300;
+	   metal=0; 
+	   damage=200; 
+	   flammable=1; 
+	   reclaimable=1; 
+	   autoreclaimable=1; 
+	   featurereclamate=smudge01; 
+	   seqnamereclamate=tree1reclamate; 
+	  } 
+[ad0_pine_snow_5_m] 
+	   { 
+	   world=All Worlds; 
+	   description=Pine Tree; 
+	   category=Vegetation; 
+	   object=ad0_pine_snow_5_m.s3o; 
+	   footprintx=1; 
+	   footprintz=1; 
+	   height=30;
+	   blocking=1;
+	   upright=1; 
+	   hitdensity=0; 
+	   energy=300;
+	   metal=0; 
+	   damage=200; 
+	   flammable=1; 
+	   reclaimable=1; 
+	   autoreclaimable=1; 
+	   featurereclamate=smudge01; 
+	   seqnamereclamate=tree1reclamate; 
+	  } 
+
+[ad0_pine_snow_4_l] 
+	   { 
+	   world=All Worlds; 
+	   description=Pine Tree; 
+	   category=Vegetation; 
+	   object=ad0_pine_snow_4_l.s3o; 
+	   footprintx=1; 
+	   footprintz=1; 
+	   height=30;
+	   blocking=1;
+	   upright=1; 
+	   hitdensity=0; 
+	   energy=300;
+	   metal=0; 
+	   damage=200; 
+	   flammable=1; 
+	   reclaimable=1; 
+	   autoreclaimable=1; 
+	   featurereclamate=smudge01; 
+	   seqnamereclamate=tree1reclamate; 
+	  } 
+[ad0_pine_snow_5_l] 
+	   { 
+	   world=All Worlds; 
+	   description=Pine Tree; 
+	   category=Vegetation; 
+	   object=ad0_pine_snow_5_l.s3o; 
+	   footprintx=1; 
+	   footprintz=1; 
+	   height=30;
+	   blocking=1;
+	   upright=1; 
+	   hitdensity=0; 
+	   energy=300;
+	   metal=0; 
+	   damage=200; 
+	   flammable=1; 
+	   reclaimable=1; 
+	   autoreclaimable=1; 
+	   featurereclamate=smudge01; 
+	   seqnamereclamate=tree1reclamate; 
+	  } 
+ 
+[ad0_pine_snow_4_xl] 
+	   { 
+	   world=All Worlds; 
+	   description=Pine Tree; 
+	   category=Vegetation; 
+	   object=ad0_pine_snow_4_xl.s3o; 
+	   footprintx=1; 
+	   footprintz=1; 
+	   height=30;
+	   blocking=1;
+	   upright=1; 
+	   hitdensity=0; 
+	   energy=300;
+	   metal=0; 
+	   damage=200; 
+	   flammable=1; 
+	   reclaimable=1; 
+	   autoreclaimable=1; 
+	   featurereclamate=smudge01; 
+	   seqnamereclamate=tree1reclamate; 
+	  } 
+[ad0_pine_snow_5_xl] 
+	   { 
+	   world=All Worlds; 
+	   description=Pine Tree; 
+	   category=Vegetation; 
+	   object=ad0_pine_snow_5_xl.s3o; 
+	   footprintx=1; 
+	   footprintz=1; 
+	   height=30;
+	   blocking=1;
+	   upright=1; 
+	   hitdensity=0; 
+	   energy=300;
+	   metal=0; 
+	   damage=200; 
+	   flammable=1; 
+	   reclaimable=1; 
+	   autoreclaimable=1; 
+	   featurereclamate=smudge01; 
+	   seqnamereclamate=tree1reclamate; 
+	  } 
+
+[ad0_pine_snow_4_xxl] 
+	   { 
+	   world=All Worlds; 
+	   description=Pine Tree; 
+	   category=Vegetation; 
+	   object=ad0_pine_snow_4_xxl.s3o; 
+	   footprintx=1; 
+	   footprintz=1; 
+	   height=30;
+	   blocking=1;
+	   upright=1; 
+	   hitdensity=0; 
+	   energy=300;
+	   metal=0; 
+	   damage=200; 
+	   flammable=1; 
+	   reclaimable=1; 
+	   autoreclaimable=1; 
+	   featurereclamate=smudge01; 
+	   seqnamereclamate=tree1reclamate; 
+	  } 
+[ad0_pine_snow_5_xxl] 
+	   { 
+	   world=All Worlds; 
+	   description=Pine Tree; 
+	   category=Vegetation; 
+	   object=ad0_pine_snow_5_xxl.s3o; 
+	   footprintx=1; 
+	   footprintz=1; 
+	   height=30;
+	   blocking=1;
+	   upright=1; 
+	   hitdensity=0; 
+	   energy=300;
+	   metal=0; 
+	   damage=200; 
+	   flammable=1; 
+	   reclaimable=1; 
+	   autoreclaimable=1; 
+	   featurereclamate=smudge01; 
+	   seqnamereclamate=tree1reclamate; 
+	  } 
+

@@ -1,0 +1,91 @@
+[MAP]
+{
+	Description=Iceland v1 - for up to 8 players. Made by [teh]Beherith;
+	TidalStrength=10;
+	Gravity=120;						//in units/sec^2
+	MaxMetal=0.85;						//how much metal a map square with the maximum metal value gives
+	ExtractorRadius=100;				//radius that a single extractor(mine) extracts from
+	MapHardness=100;
+	DetailTex=detailtex.bmp;
+	SpecularTex=spec.tga;
+	splatDetailTex=splattex.tga;
+	splatDistrTex=splatdist.tga;
+	[SPLATS]{
+		splatTexScales=0.008 0.004 0.012 0.004; //rock,grass, rough snow,snow2, smaller values are larger tiles
+		splatTexMults=0.1 0.5 0.17 1;
+	}
+
+	[SMF]
+	{
+		minheight = -75;
+		maxheight = 300;
+	}
+[GRASS]{
+  
+    GrassBladeWaveScale = 3.0;
+    GrassBladeWidth = 0.9;
+    GrassBladeHeight = 8;
+    GrassBladeAngle = 1.4;
+}
+	[ATMOSPHERE]
+	{
+		FogColor=0.8 0.8 0.8;
+		FogStart=0.7;
+
+		CloudColor=0.9 0.9 0.95;
+		SkyColor=0.7 0.7 0.95;
+
+		SunColor=0.7 0.8 1.0;
+		CloudDensity=0.5;
+		
+		MinWind=3;
+		MaxWind=23;
+	}
+	[WATER]
+	{
+		WaterSurfaceColor=0.4 0.34 0.46;
+		WaterPlaneColor=0.02 0.08 0.15;
+		WaterBaseColor=0.80 1 1;
+		WaterAbsorb=0.03 0.010 0.0045;
+		WaterMinColor=0 0 0.05;
+		WaterSurfaceAlpha=0.15;
+	}
+	[LIGHT]
+	{
+		SunDir=1 1.5 0;						//direction of sun (spring will normalize it later)(y component is upward)
+		
+		GroundAmbientColor=0.5 0.5 0.6;		//ambient (non sun lit) color of ground (and grass trees etc)
+		GroundSunColor=0.75 0.75 0.85;			//color of ground where fully sun lit (added to ambient)
+		GroundShadowDensity=1;			//how far from the non shadowed to the ambient color stuff in shadow will go
+
+		UnitAmbientColor=0.4 0.4 0.5;		//ambient (non sun lit) color of units (and wreckage etc)
+		UnitSunColor=0.85 0.85 0.9;			//color of units where fully sun lit (added to ambient)
+		UnitShadowDensity=0.8;				//how far from the non shadowed to the ambient color stuff in shadow will go
+	}	
+	[TERRAINTYPE0]
+	{
+		name=Iceland;
+		hardness=1;
+		tankmovespeed=1;
+		kbotmovespeed=1;
+		hovermovespeed=1;
+		shipmovespeed=1;
+	}
+
+
+	[TEAM0]
+		{
+		StartPosX=1500;
+		StartPosZ=6500;
+		}
+	[TEAM1]
+		{
+		StartPosX=6500;
+		StartPosZ=1500;
+		}
+	
+
+
+
+
+}
